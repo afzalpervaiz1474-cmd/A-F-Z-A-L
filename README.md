@@ -2,4 +2,6 @@
 This is my first  Git  Repository .
 <br>
 <br>
-Author-Afzal pervaiz
+Author-Afzal (developer)
+
+
